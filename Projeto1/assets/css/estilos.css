@@ -60,7 +60,7 @@ p {
 	text-indent:3em
 }
 
-a {
+.link {
 	color: rgb(0, 90, 35);
 	text-decoration: underline;
 }
