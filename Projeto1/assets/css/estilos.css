@@ -18,28 +18,23 @@
 
 .painelSmall{
 	border: 1px 1px 1px 1px solid;
-	border-color: rgba(255, 214, 245, 0.507);
+	border-color: rgba(145, 145, 145);
 	border-radius: 6px;
 	padding: 0rem 0rem 0rem 0rem;
-	background-color: #7cffd33a;
-	margin-top: 2em;
+	background-color: #d1d1d1be;
+	margin-top: 40%;
 	max-width: 40rem;
 }
 
 .header {
-	background-color: #a4a4a496;
+	background-color: #6b6b6b8f;
 	border-radius: 4px 4px 0px 0px;
 	padding: 1rem 1rem 3rem 1rem;
 	color: rgb(255, 255, 255);
 }
 
-.link {
-	color: rgb(255, 255, 255);
-	text-decoration: underline;
-}
-
 .login {
-	background-image: url(../img/irlanda.jpg);
+	background-image: url(../img/loginFundo.jpg);
 	background-size: cover;
 	background-position: top center;
 	height: 100%;
@@ -47,10 +42,6 @@
 }
 
 html,
-body {
-	height: 150%;
-}
-
 header {
 	margin-bottom: 1rem;
 }
@@ -70,7 +61,8 @@ p {
 }
 
 a {
-	color: rgb(4, 117, 0);
+	color: rgb(0, 90, 35);
+	text-decoration: underline;
 }
 
 
