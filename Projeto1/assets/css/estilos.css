@@ -1,0 +1,76 @@
+.margin {
+	margin-left: 1rem;
+	margin-right: 1rem;	
+}
+
+.icon {
+    float: left;
+    padding: 5px;
+    margin: 1rem 1rem 1rem 1rem;
+    max-width: 6rem;
+    max-height: 6rem;
+}
+
+.botao {
+	float: right;
+	margin: 0rem 1rem 1rem 1rem;
+}
+
+.painelSmall{
+	border: 1px 1px 1px 1px solid;
+	border-color: rgba(255, 214, 245, 0.507);
+	border-radius: 6px;
+	padding: 0rem 0rem 0rem 0rem;
+	background-color: #7cffd33a;
+	margin-top: 2em;
+	max-width: 40rem;
+}
+
+.header {
+	background-color: #a4a4a496;
+	border-radius: 4px 4px 0px 0px;
+	padding: 1rem 1rem 3rem 1rem;
+	color: rgb(255, 255, 255);
+}
+
+.link {
+	color: rgb(255, 255, 255);
+	text-decoration: underline;
+}
+
+.login {
+	background-image: url(../img/irlanda.jpg);
+	background-size: cover;
+	background-position: top center;
+	height: 100%;
+	width: auto;
+}
+
+html,
+body {
+	height: 150%;
+}
+
+header {
+	margin-bottom: 1rem;
+}
+
+header h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h1 {
+    padding: 5px;
+    margin: 1rem 1rem 1rem 1rem;
+}
+
+p {
+	text-indent:3em
+}
+
+a {
+	color: rgb(4, 117, 0);
+}
+
+
