@@ -1,3 +1,4 @@
+
 body{
     background-color:whitesmoke;
 }
@@ -15,9 +16,18 @@ body{
 .container .line{
     display: flex;
     width: 15px;
-    height: 150px;
+    height: 100%; /* altura do container */
+}
+
+.band {
+    display: flex;
+    width: 100%;  /* largura da tela */
+    height: 2rem;
+}
+
+/*para ter a conecção da cor nos 2 arquivos e se aproveitar o line para os outros bichos*/
+.aves{
     background-color: yellow;
-   
 }
 
 .container .content{
@@ -37,3 +47,8 @@ body{
 .container .line:nth-child(2) {
     background-color: red;
   }
+
+p{
+    margin: 0.5rem;
+    text-align: justify;
+}
