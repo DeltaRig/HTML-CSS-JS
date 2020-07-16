@@ -1,14 +1,13 @@
 
 body{
     background-color:whitesmoke;
-    margin:0;
+    margin: 0;
 }
 
 .container{
     position:absolute;
-    display: flex;
     width: 350px;
-    height: 150px;
+    min-height: 150px;
     border-radius:3px;
     left: 50%;
     margin: 20px;
@@ -17,18 +16,19 @@ body{
     color: black;
 }
 
+/* utilizado apenas no index */
 .container .line{
     display: flex;
     width: 15px;
-    height: 100%; /* altura do container */
+    height: 150px; /* altura do container */
 }
 
+/* utilizado apenas no grupo */
 .band {
     display: flex;
     width: auto;  /* largura da tela */
     padding:0 20px;
     height: 2rem;
-    /* top right bottom left */
 }
 
 /*para ter a conecção da cor nos 2 arquivos e se aproveitar o line para os outros bichos*/
@@ -45,6 +45,7 @@ body{
 
 }
 
+/* utilizado apenas no index, alterar para fazer o voltar*/
 .container .icon{
     position: absolute;
     max-width: 3rem;
@@ -59,7 +60,21 @@ body{
     background-color: red;
   }
 
+/* utilizado apenas no grupo */
+.picture {
+    max-height: 130px; /**/
+    max-width: 250px;
+    margin: 0.25rem;
+}
+
 p{
+    font-size: 1em;
     margin: 1rem;
+    margin-bottom: 0rem;
     text-align: justify;
+    
+}
+
+h3{
+    margin: 1rem;
 }

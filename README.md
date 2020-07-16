@@ -12,10 +12,9 @@ Contém uma tela geral (index.html), onde vão aparecer publicações com imagem
 Inicio de menu
 
 ### Guia
-Telas do guia, uma tela principal com grupos de animais escolhidos.
+Telas do guia: uma tela principal com grupos de animais escolhidos e uma tela onde aparecem as informações sobre esse grupo e quais divisões dele existem com imagens de cada espécie.
 
 #### Próximos passos:
-* Adicionar barra de navegação (navbar)
-* Adicionar icone que quando clicado é preenchido
+* Adicionar icone que quando clicado é preenchido (salvar)
 * Treinar JS e Node
 
