@@ -16,11 +16,16 @@ Inicio de menu
 
 ### Guia
 
+Primeiro arquivo js, teste.js adiciona um botão personalizado a tela guia quando se click no botão "try it".
+
+### Guia
+
 Telas do guia: uma tela principal com grupos de animais escolhidos e uma tela onde aparecem as informações sobre esse grupo e quais divisões dele existem com imagens de cada espécie.
 
 Separado por pastas de img, css e js.
 
-Primeiro arquivo js, teste.js adiciona um botão personalizado a tela guia quando se click no botão "try it".
+
+
 
 #### Próximos passos:
 
