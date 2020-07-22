@@ -59,6 +59,12 @@ body{
     left:80%;
 }
 
+#voltar{
+    position: absolute;
+    max-height: 1.5rem;
+    margin-top: 0.25rem;
+}
+
 /* utilizado apenas no grupo */
 .picture {
     max-height: 130px;
