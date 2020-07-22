@@ -12,9 +12,9 @@ Contém uma tela geral (index.html), onde vão aparecer publicações com imagem
 
 ### Projeto 2
 
-Inicio de menu
+Inicio de menu.
 
-### Guia
+### AdicionaBotão
 
 Primeiro arquivo js, teste.js adiciona um botão personalizado a tela guia quando se click no botão "try it".
 

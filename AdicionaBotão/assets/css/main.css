@@ -4,16 +4,19 @@ body{
     margin: 0;
 }
 
-.buttons{
-    margin: 5rem;
+#buttons{
     width: 350px;
+    position: absolute;
+    left:50%;
+    margin-left:-175px;
+
 }
 
 .container{
     position: relative;
-    height: 150px;
+    min-height: 150px;
     border-radius:3px;
-    margin: 2rem;
+    margin-top: 2rem;
     background-color: #d9d9d9;
     color: black;
     text-align: center;
